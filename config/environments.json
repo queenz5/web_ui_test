@@ -1,0 +1,27 @@
+{
+  "FC_TESTING": {
+    "BASE_URL": "https://fc-testing.xxxx.club",
+    "LOGIN_PAGE_URL":"https://fc-testing.xxxx.club/login",
+    "DEV_PAGE_URL":"https://fc-testing.xxxx.club/dev",
+    "OPS_PAGE_URL":"https://fc-testing.xxxx.club/ops",
+    "DEV_USER_ACCOUNT": ["xxxx", "xxxx@1234"],
+    "OPS_USER_ACCOUNT": ["admin", "xxxx@1234"],
+    "pengzq1": ["xxxx", "xxxx"]
+  },
+  "STAGING_SAAS": {
+    "BASE_URL": "https://staging-saas.xxxx.club",
+    "LOGIN_PAGE_URL":"https://staging-saas.xxxx.club/login",
+    "DEV_PAGE_URL":"https://staging-saas.xxxx.club/dev",
+    "OPS_PAGE_URL":"https://staging-saas.xxxx.club/ops",
+    "DEV_USER_ACCOUNT": ["xxxx", "xxxx@1234"],
+    "OPS_USER_ACCOUNT": ["admin", "xxxx@1234"]
+  },
+  "STAGING_PRIVATE": {
+    "BASE_URL": "https://staging-private.xxxx.club",
+    "LOGIN_PAGE_URL":"https://staging-private.xxxx.club/login",
+    "DEV_PAGE_URL":"https://staging-private.xxxx.club/dev",
+    "OPS_PAGE_URL":"https://staging-private.xxxx.club/ops",
+    "DEV_USER_ACCOUNT": ["xxxx", "xxxx@1234"],
+    "OPS_USER_ACCOUNT": ["admin", "xxxx@1234"]
+  }
+}
