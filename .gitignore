@@ -1,0 +1,9 @@
+#node文件、报告、截图
+node_modules/
+test-results
+playwright-report
+
+# misc
+.DS_Store
+.idea
+.history
